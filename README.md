@@ -3,7 +3,7 @@
 <h4 align="center">I'm a Telecomunications and Electronics Engineer, graduated from the <a href="https://www.cent.uo.edu.cu/">University of Oriente</a>, Santiago de Cuba. I am a passionate Android Developer from Cuba</h4>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/225621/screenshots/2222940/media/316fa11c91146907f097fa7d87167a46.jpg?resize=768x576&vertical=center">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=laclave96&label=Profile%20views&color=0e75b6&style=flat" alt="laclave96" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amed991121&label=Profile%20views&color=0e75b6&style=flat" alt="aned991121" /> </p>
 
 - 🔭 I’m currently working on [Savent Informática](http://www.savent.com.mx/)
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h3>
 <p align="left">
-<a href="https://linkedin.com/in/angel-clavería-méndez-920786212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angel-clavería-méndez-920786212" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amed-clavería-méndez" height="30" width="40" /></a>
 </p>
 
 
