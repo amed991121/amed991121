@@ -5,8 +5,6 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/225621/screenshots/2222940/media/316fa11c91146907f097fa7d87167a46.jpg?resize=768x576&vertical=center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amed991121&label=Profile%20views&color=0e75b6&style=flat" alt="aned991121" /> </p>
 
-- 🔭 I’m currently working on [Savent Informática](http://www.savent.com.mx/)
-
 - 🌱 I’m currently learning **Spring Framework**
 
 - 📫 How to reach me **amed.claveria@gmail.com**
