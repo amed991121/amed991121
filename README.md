@@ -1,6 +1,6 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Amed Clavería 👨‍💻</h1>
-<h4 align="center">I'm a Telecomunications and Electronics Engineer, graduated from the <a href="https://www.cent.uo.edu.cu/">University of Oriente</a>, Santiago de Cuba. I am a passionate Android Developer from Cuba</h4>
+<h4 align="center">I'm a Telecomunications and Electronics Engineer, graduated from the <a href="https://www.cent.uo.edu.cu/">University of Oriente</a>, Santiago de Cuba. I am a passionate Android Developer</h4>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/225621/screenshots/2222940/media/316fa11c91146907f097fa7d87167a46.jpg?resize=768x576&vertical=center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amed991121&label=Profile%20views&color=0e75b6&style=flat" alt="aned991121" /> </p>
